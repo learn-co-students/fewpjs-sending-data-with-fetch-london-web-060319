@@ -39,18 +39,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "jack",
-      "email": "jack@jack",
-      "id": 1
-    },
-    {
-      "name": "jack",
-      "email": "jack@jack",
-      "id": 2
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
